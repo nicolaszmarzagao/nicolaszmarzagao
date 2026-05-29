@@ -6,6 +6,4 @@ I got into computers through Linux, and that is still one of the areas I enjoy t
 
 Currently, I mostly work with Python, Terraform, Linux, and infrastructure-related tooling.
 
-<!--
-<img height="180" src="https://github-stats-extended.vercel.app/api?username=nicolaszmarzagao&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-<img height="180" src="https://github-stats-extended.vercel.app/api?username=nicolaszmarzagao&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=nicolaszmarzagao&layout=compact&theme=transparent&hide_border=true&langs_count=8)
